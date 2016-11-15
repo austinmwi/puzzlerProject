@@ -1,0 +1,25 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="lightUp">
+			<method name="playerSelection"/>
+			<method name="gazeLightUp"/>
+			<method name="aestheticReset"/>
+			<method name="playerSelection"/>
+			<method name="gazeLightUp"/>
+			<method name="aestheticReset"/>
+			<method name="playerSelection"/>
+			<method name="gazeLightUp"/>
+			<method name="aestheticReset"/>
+			<method name="playerSelection"/>
+			<method name="gazeLightUp"/>
+			<method name="aestheticReset"/>
+			<method name="playerSelection"/>
+			<method name="gazeLightUp"/>
+			<method name="aestheticReset"/>
+		</type>
+		<type fullname="gameLogic">
+			<method name="resetPuzzle"/>
+			<method name="startPuzzle"/>
+		</type>
+	</assembly>
+</linker>
